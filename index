@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+    <script>
+        //引号内换成你想跳转的链接
+        window.location.href = "https://fog-gateway-cb8.notion.site/MaoTou-18d728ddfa55475f99b466f71c88f03f"
+    </script>
+</body>
+</html>
